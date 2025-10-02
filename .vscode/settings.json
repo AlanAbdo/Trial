@@ -1,0 +1,8 @@
+{
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportWildcardImportFromLibrary": "none"
+    },
+    "python.analysis.extraPaths": [
+        "/Users/AlanAbdo/.vscode/extensions/stefanwehr.write-your-python-program-2.0.5/python/code/"
+    ]
+}

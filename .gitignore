@@ -1,0 +1,5 @@
+# Packages #
+############
+# Better to unpack these files and commit the raw source
+*.dmg
+*.zip
